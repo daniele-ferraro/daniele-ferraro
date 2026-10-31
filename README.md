@@ -2,9 +2,9 @@
 
 Ingegnere informatico (LM-32, **110/110 con lode**, Università degli Studi di Palermo).
 
-Mi piace lavorare su sistemi concreti: dal back-end web fino al codice che comunica direttamente con i registri dell'hardware.
+Mi piace lavorare su sistemi concreti: dal back-end web fino alla programmazione bare-metal di hardware dedicato.
 
-Sto cercando la mia prima esperienza in ambito **sviluppo software** o **infrastrutture e sicurezza**, a Palermo o da remoto/ibrido.
+Sto cercando la mia prima esperienza lavorativa come **sviluppatore software** o nell'ambito **infrastrutturale e della sicurezza**, a Palermo o da remoto/ibrido.
 
 ---
 
