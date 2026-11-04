@@ -10,19 +10,19 @@ Sto cercando la mia prima esperienza lavorativa come **sviluppatore software** o
 
 ## Progetti in evidenza
 
-### E-commerce full-stack in Java
+### [E-commerce full-stack in Java](https://github.com/daniele-ferraro/ProgettoPanini) 
 Sito di vendita online realizzato da zero, da solo: catalogo, carrello, ordini e area riservata.
 - Back-end con **Java Servlet/JSP** e **MySQL**
 - Autenticazione con **ruoli distinti** (clienti e diverse tipologie di dipendenti)
 - Password salvate con **hash + salt**
 - Front-end in HTML, CSS e JavaScript
 
-### Snake bare-metal su Raspberry Pi 3B+ in FORTH
-Il classico Snake, ma progettato per girare **senza sistema operativo**: solo un interprete FORTH minimale e l'hardware.
+### [Snake bare-metal su Raspberry Pi 3B+ in FORTH](https://github.com/daniele-ferraro/pSnake-Forth-RaspberryPi)
+Il classico Snake, ma progettato per girare **senza sistema operativo**: solo un interprete FORTH minimale fornito dal professore durante il corso e l'hardware.
 - Gestione di **display e pulsanti a livello di registri**, studiando la documentazione ARM/BCM delle periferiche
 - Tutte le primitive necessarie (grafica, input, logica di gioco) scritte a mano in FORTH, un linguaggio a stack
 
-### Regressione su dataset Kaggle con Apache Spark
+### [Regressione su dataset Kaggle con Apache Spark](https://github.com/daniele-ferraro/house-prices-spark)
 Stima del prezzo delle abitazioni con **PySpark MLlib**.
 - Pulizia del dataset e **imputazione dei dati mancanti**
 - Confronto tra **Random Forest** e **Gradient-Boosted Trees**
